@@ -10,3 +10,6 @@ dependencies:
   - nltk
   - spacy
   - pip
+  - pip:
+      - transformers
+      - torch
